@@ -205,6 +205,10 @@ Analysis
 
 Optimality: Compare costs for UCS, Euclidean, Manhattan
 
+
+**Author:** Mammadali Sabanov  
+**Email:** mammadalishabanov@gmail.com  
+
 Efficiency: Compare Expanded nodes and runtime
 
 Heuristic Validity: Check if edge weights satisfy admissibility for heuristics
